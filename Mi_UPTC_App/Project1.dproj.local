@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/03/20 10:07:14.000.190,=D:\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/03/20 10:13:50.000.366,D:\Documentos\Embarcadero\Studio\Projects\Unit2.dfm=D:\Documentos\Embarcadero\Studio\Projects\miappv4.dfm</Transaction>
+    <Transaction>2022/03/20 10:13:50.000.366,D:\Documentos\Embarcadero\Studio\Projects\Unit2.pas=D:\Documentos\Embarcadero\Studio\Projects\miappv4.pas</Transaction>
+    <Transaction>2022/03/20 10:34:15.000.701,=D:\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/03/20 11:09:09.000.878,D:\Documentos\Embarcadero\Studio\Projects\Project1.dproj=D:\Documentos\Embarcadero\Studio\Projects\appfidel\Project1.dproj</Transaction>
+    <Transaction>2022/03/20 11:10:19.000.518,=D:\Documentos\Embarcadero\Studio\Projects\appfidel\Unit1.pas</Transaction>
+    <Transaction>2022/03/20 11:11:37.000.970,=D:\Documentos\Embarcadero\Studio\Projects\appfidel\Unit2.pas</Transaction>
+    <Transaction>2022/03/20 11:11:59.000.472,D:\Documentos\Embarcadero\Studio\Projects\appfidel\Unit2.pas=D:\Documentos\Embarcadero\Studio\Projects\appfidel\Unit23d.pas</Transaction>
+    <Transaction>2022/03/20 11:11:59.000.472,D:\Documentos\Embarcadero\Studio\Projects\appfidel\Unit2.dfm=D:\Documentos\Embarcadero\Studio\Projects\appfidel\Unit23d.dfm</Transaction>
+    <Transaction>2022/03/20 11:12:17.000.566,=D:\Documentos\Embarcadero\Studio\Projects\appfidel\Unit2.pas</Transaction>
+    <Transaction>2022/03/20 11:12:39.000.263,D:\Documentos\Embarcadero\Studio\Projects\appfidel\Unit2.pas=D:\Documentos\Embarcadero\Studio\Projects\appfidel\Unitopb.pas</Transaction>
+    <Transaction>2022/03/20 11:12:39.000.263,D:\Documentos\Embarcadero\Studio\Projects\appfidel\Unit2.dfm=D:\Documentos\Embarcadero\Studio\Projects\appfidel\Unitopb.dfm</Transaction>
+    <Transaction>2022/03/20 11:33:20.000.649,D:\Documentos\Embarcadero\Studio\Projects\appfidel\Unit1.pas=</Transaction>
+    <Transaction>2022/03/20 11:33:26.000.537,D:\Documentos\Embarcadero\Studio\Projects\appfidel\Unit23d.pas=</Transaction>
+    <Transaction>2022/03/20 11:33:30.000.426,D:\Documentos\Embarcadero\Studio\Projects\appfidel\Unitopb.pas=</Transaction>
+    <Transaction>2022/03/20 11:36:13.000.664,=D:\Documentos\Embarcadero\Studio\Projects\appfidel\Unit1.pas</Transaction>
+    <Transaction>2022/03/20 11:36:23.000.709,D:\Documentos\Embarcadero\Studio\Projects\appfidel\figuras2d.dfm=D:\Documentos\Embarcadero\Studio\Projects\appfidel\Unit1.dfm</Transaction>
+    <Transaction>2022/03/20 11:36:23.000.709,D:\Documentos\Embarcadero\Studio\Projects\appfidel\figuras2d.pas=D:\Documentos\Embarcadero\Studio\Projects\appfidel\Unit1.pas</Transaction>
+    <Transaction>2022/03/20 11:37:07.000.844,=D:\Documentos\Embarcadero\Studio\Projects\appfidel\Unit1.pas</Transaction>
+    <Transaction>2022/03/20 11:37:34.000.548,D:\Documentos\Embarcadero\Studio\Projects\appfidel\figuras3d.dfm=D:\Documentos\Embarcadero\Studio\Projects\appfidel\Unit1.dfm</Transaction>
+    <Transaction>2022/03/20 11:37:34.000.548,D:\Documentos\Embarcadero\Studio\Projects\appfidel\figuras3d.pas=D:\Documentos\Embarcadero\Studio\Projects\appfidel\Unit1.pas</Transaction>
+    <Transaction>2022/03/20 11:37:52.000.556,=D:\Documentos\Embarcadero\Studio\Projects\appfidel\Unit1.pas</Transaction>
+    <Transaction>2022/03/20 11:38:40.000.898,D:\Documentos\Embarcadero\Studio\Projects\appfidel\opb.dfm=D:\Documentos\Embarcadero\Studio\Projects\appfidel\Unit1.dfm</Transaction>
+    <Transaction>2022/03/20 11:38:40.000.898,D:\Documentos\Embarcadero\Studio\Projects\appfidel\opb.pas=D:\Documentos\Embarcadero\Studio\Projects\appfidel\Unit1.pas</Transaction>
+    <Transaction>2022/03/20 20:02:20.000.980,=D:\Documentos\Embarcadero\Studio\Projects\appfidel\Unit1.pas</Transaction>
+    <Transaction>2022/03/20 20:17:26.000.018,D:\Documentos\Embarcadero\Studio\Projects\appfidel\Unit1.dfm=D:\Documentos\Embarcadero\Studio\Projects\appfidel\unitautores.dfm</Transaction>
+    <Transaction>2022/03/20 20:17:26.000.018,D:\Documentos\Embarcadero\Studio\Projects\appfidel\Unit1.pas=D:\Documentos\Embarcadero\Studio\Projects\appfidel\unitautores.pas</Transaction>
+    <Transaction>2022/03/20 20:32:41.000.803,=D:\Documentos\Embarcadero\Studio\Projects\appfidel\Unit1.pas</Transaction>
+    <Transaction>2022/03/20 20:33:13.000.503,D:\Documentos\Embarcadero\Studio\Projects\appfidel\Unit1.dfm=D:\Documentos\Embarcadero\Studio\Projects\appfidel\uptcimg1.dfm</Transaction>
+    <Transaction>2022/03/20 20:33:13.000.503,D:\Documentos\Embarcadero\Studio\Projects\appfidel\Unit1.pas=D:\Documentos\Embarcadero\Studio\Projects\appfidel\uptcimg1.pas</Transaction>
+    <Transaction>2022/03/20 20:43:35.610,D:\Documentos\Embarcadero\Studio\Projects\appfidel\uptcimg1.pas=</Transaction>
+    <Transaction>2022/03/20 20:44:23.251,=D:\Documentos\Embarcadero\Studio\Projects\appfidel\Unit1.pas</Transaction>
+    <Transaction>2022/03/20 20:44:52.553,D:\Documentos\Embarcadero\Studio\Projects\appfidel\uptcimg.dfm=D:\Documentos\Embarcadero\Studio\Projects\appfidel\Unit1.dfm</Transaction>
+    <Transaction>2022/03/20 20:44:52.553,D:\Documentos\Embarcadero\Studio\Projects\appfidel\uptcimg.pas=D:\Documentos\Embarcadero\Studio\Projects\appfidel\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
